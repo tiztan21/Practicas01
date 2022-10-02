@@ -1,2 +1,4 @@
 archivo: code2.txt
-Otro cambio
+=======
+Cambio desde web
+>>>>>>> 74f56477b7ae769ee14d4e26bf259afde58c2d2d
