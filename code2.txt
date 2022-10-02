@@ -1,1 +1,2 @@
 archivo: code2.txt
+Otro cambio
